@@ -5,7 +5,7 @@
 
 </p>
 
-**BooksApp** is a mobile application designed for book enthusiasts. It allows users to **search for books**, **add them to favorites**, **mark them as read**, and manage their personal library. The app retrieves book data from the **Open Library API** and uses a **Node.js backend** with **MongoDB caching** to deliver a fast and optimized experience.
+**Books** is a mobile application designed for book enthusiasts. It allows users to **search for books**, **add them to favorites**, **mark them as read**, and manage their personal library. The app retrieves book data from the **Open Library API** and uses a **Node.js backend** with **MongoDB caching** to deliver a fast and optimized experience.
 
 ## Features
 
