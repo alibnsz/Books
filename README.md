@@ -50,4 +50,4 @@ The application design was created using **Figma**, focusing on a clean, user-fr
 
 ## Purpose
 
-BooksApp helps users organize their reading habits, manage their favorite books, and build a personal digital library — all while ensuring a smooth and modern user experience.
+Books helps users organize their reading habits, manage their favorite books, and build a personal digital library — all while ensuring a smooth and modern user experience.
